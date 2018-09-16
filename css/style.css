@@ -1,0 +1,66 @@
+#container {
+	width: 1300px;
+	height: 1000px;
+	background-color: maroon;
+	margin: auto;
+}
+#header a:hover{
+	color: black;
+}
+#header{
+	background-color: lightblue;
+	font-family: fantasy;
+	font-size: 40px;
+	word-spacing: 5px;
+	border-color: maroon;
+	border: 30px solid maroon;
+	font-weight: normal;
+	letter-spacing: 12px;
+	padding: auto;
+
+}
+p{
+	font-size: 15px;
+	font-family: cursive;
+	text-align: justify;
+}
+#navbar{
+	margin: 10px;
+	background-color: gold;
+	
+}
+#navbar a{
+	color: black;
+	font-size: 25px;
+	font-family: Times, seriff;
+	letter-spacing: 5px;
+	text-decoration: none;
+	padding-left: 30px 
+	
+}
+#navbar a:hover{
+	background-color:red;
+
+}
+#active{
+	border-bottom: 3px solid blue;
+	height: 20px;
+}
+body {
+	background-color: lavender;
+}
+
+div.desc {
+    padding: 5px;
+    text-align: center;
+}
+h1{
+	font-size: 50px;
+	font-family: cursive;
+	
+}
+h2{
+	font-size: 30px;
+	font-family: cursive;
+	
+}
